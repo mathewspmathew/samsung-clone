@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'SamsungOneBold';
+    src: url(/fonts/SamsungSharpSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'SamsungOneMedium';
+    src: url(/fonts/SamsungOne-700.ttf);
+}
+@font-face {
+    font-family: 'SamsungOneRegular';
+    src: url(/fonts/SamsungOne-400.ttf);
+}
+.samsung-logo{
+    
+    width: 110px;
+}
+.header-text{
+    font-family: SamsungOneMedium;
+}

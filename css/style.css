@@ -1,0 +1,15 @@
+
+@media (min-width: 1400px){
+    .main-container{
+        padding-left: 230px;
+        padding-right: 230px;
+       
+    }
+}
+
+.main-container{
+    background-color: rgb(255, 255, 255);
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
